@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,j as s}from"./index-903608c6.js";const c={},r={class:"footer"},a=s("p",{class:"opacity-50 text-xs pt-6 mb-10 dark:text-white"}," 2BA MIND* 2023/2024 - Sterre Peumans - Studio Webdesign ",-1),n=[a];function _(i,d){return t(),o("div",r,n)}const m=e(c,[["render",_]]);export{m as F};
